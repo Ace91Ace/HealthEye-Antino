@@ -4,6 +4,10 @@
 
 Millions of people struggle to make informed dietary choices due to a lack of clear nutritional information on food products. Individuals with allergies also face significant risks when consuming products without knowing their ingredients.
 
+## Installation
+
+[Download the APK from Google Drive](https://drive.google.com/file/d/1jmcobjgIo8tkkgm8b-oyDtPa5BZs-Ydr/view?usp=sharing)
+
 ## Solution Overview
 
 HealthEye is a Flutter-based mobile application that helps users make healthier food choices by scanning food labels or barcodes to:
@@ -61,21 +65,14 @@ To run HealthEye locally, follow these steps:
 
 ## Screenshots
 
-[Insert app screenshots here]
+![collage](https://github.com/user-attachments/assets/a3f8653d-7a88-465a-8954-f4cde5e0c8c8)
 
-## Download APK
 
-[Download the latest APK from Google Drive](#)
 
 ## Demo Video
 
-[Provide a link to a short demo video showcasing the app in action]
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
-For any queries or suggestions, reach out via [[your-email@example.com](mailto:your-email@example.com)] or create an issue in this repository.
-
+For any queries or suggestions, reach out via [[nagavamshi53@gmail.com](mailto:your-email@example.com)] or create an issue in this repository.
