@@ -70,6 +70,7 @@ To run HealthEye locally, follow these steps:
 
 
 ## Demo Video
+![Demo (1)](https://github.com/user-attachments/assets/9b393553-ffbe-479d-a173-ec828bf27a0e)
 
 
 
